@@ -1,0 +1,10 @@
+{
+  "package-name": "jejuflight-airport-rkdu-ulleung-airport",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "RKDU",
+      "revision": 1
+    }
+  ]
+}
